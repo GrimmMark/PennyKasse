@@ -1,0 +1,42 @@
+{
+    "articles": [
+      {
+        "ID": 0,
+        "article": "Spagetti Souce",
+        "price": 2.30
+      },
+      {
+        "ID": 1,
+        "article": "Biskuits",
+        "price": 3.99
+      },
+      {
+        "ID": 2,
+        "article": "Italian Caffe",
+        "price": 8.99
+      },
+      {
+        "ID": 3,
+        "article": "Ramazotti",
+        "price": 12.99
+      },
+      {
+        "ID": 4,
+        "article": "Lambrusco 1l",
+        "price": 4.99
+      },
+      {
+        "ID": 5,
+        "article": "Meat 500gr",
+        "price": 3.99
+      },
+      {"ID": 5,
+        "article": "Pasta 500gr",
+        "price": 1.99
+      },
+      {"ID": 6,
+        "article": "Parmesan Cheese 200gr",
+        "price": 2.99
+      }
+    ]
+  }

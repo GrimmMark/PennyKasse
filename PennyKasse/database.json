@@ -1,0 +1,419 @@
+{ "articles": [
+    {
+        "ID": 0,
+        "article": "Große Tüte",
+        "MW": false,
+        "EW": false,
+        "price": 0.20
+    },
+    {
+        "ID": 1,
+        "article": "Tüte",
+        "MW": false,
+        "EW": false,
+        "price": 0.10
+    },
+    {
+        "ID": 2,
+        "article": "MW-Pfand",
+        "MW": false,
+        "EW": false,
+        "price": 0.15
+    },
+    {
+        "ID": 3,
+        "article": "MW-Pfand",
+        "MW": false,
+        "EW": false,
+        "price": 0.25
+    },
+    {
+        "ID": 4,
+        "article": "Red Bull 0,25l",
+        "MW": false,
+        "EW": true,
+        "price": 1.11
+    },
+    {
+        "ID": 5,
+        "article": "Afri Cola 0,2l",
+        "MW": true,
+        "EW": false,
+        "price": 0.15
+    },
+    {
+        "ID": 6,
+        "article": "Vitrexx 1,5l",
+        "MW": false,
+        "EW": true,
+        "price": 0.79
+    }],
+
+
+    "allarticles": [
+        {
+            "ID": 0,
+            "article": "Große Tüte",
+            "MW": false,
+            "EW": false,
+            "price": 0.20
+        },
+        {
+            "ID": 1,
+            "article": "Tüte",
+            "MW": false,
+            "EW": false,
+            "price": 0.10
+        },
+        {
+            "ID": 2,
+            "article": "MW-Pfand",
+            "MW": false,
+            "EW": false,
+            "price": 0.15
+        },
+        {
+            "ID": 3,
+            "article": "MW-Pfand",
+            "MW": false,
+            "EW": false,
+            "price": 0.25
+        },
+        {
+            "ID": 4,
+            "article": "Red Bull 0,25l",
+            "MW": false,
+            "EW": true,
+            "price": 1.11
+        },
+        {
+            "ID": 5,
+            "article": "Afri Cola 0,2l",
+            "MW": true,
+            "EW": false,
+            "price": 0.15
+        },
+        {
+            "ID": 6,
+            "article": "Vitrexx 1,5l",
+            "MW": false,
+            "EW": true,
+            "price": 0.79
+        },
+        {
+            "ID": 7,
+            "article": "Coca-Cola 0,33l",
+            "MW": false,
+            "EW": true,
+            "price": 0.99
+        },
+        {
+            "ID": 8,
+            "article": "Energy 0,33l",
+            "MW": false,
+            "EW": true,
+            "price": 0.59
+        },
+        {
+            "ID": 9,
+            "article": "Stardrink 1,5l",
+            "MW": false,
+            "EW": true,
+            "price": 0.59
+        },
+        {
+            "ID": 10,
+            "article": "Energy 0,5l",
+            "MW": false,
+            "EW": true,
+            "price": 0.99
+        },
+        {
+            "ID": 11,
+            "article": "Coca-Cola 1,25l",
+            "MW": false,
+            "EW": true,
+            "price": 1.11
+        },
+        {
+            "ID": 12,
+            "article": "Adelholzener 0,75l",
+            "MW": true,
+            "EW": false,
+            "price": 0.89
+        },
+        {
+            "ID": 13,
+            "article": "Adelholzener Citrus 0,75l",
+            "MW": true,
+            "EW": false,
+            "price": 0.99
+        },
+        {
+            "ID": 14,
+            "article": "Mio 0,5l",
+            "MW": true,
+            "EW": false,
+            "price": 0.89
+        },
+        {
+            "ID": 15,
+            "article": "Haribo 200g",
+            "MW": false,
+            "EW": false,
+            "price": 1.29
+        },
+        {
+            "ID": 15,
+            "article": "Herrenschokolade 100g",
+            "MW": false,
+            "EW": false,
+            "price": 1.29
+        },
+        {
+            "ID": 16,
+            "article": "Mars 65g",
+            "MW": false,
+            "EW": false,
+            "price": 1.29
+        },
+        {
+            "ID": 17,
+            "article": "Almette 200g",
+            "MW": false,
+            "EW": false,
+            "price": 1.29
+        },
+        {
+            "ID": 18,
+            "article": "Miree 150g",
+            "MW": false,
+            "EW": false,
+            "price": 1.29
+        },
+        {
+            "ID": 19,
+            "article": "Emmentaler 200g",
+            "MW": false,
+            "EW": false,
+            "price": 1.99
+        },
+        {
+            "ID": 20,
+            "article": "Hot Wheels",
+            "MW": false,
+            "EW": false,
+            "price": 1.99
+        },
+        {
+            "ID": 21,
+            "article": "Teelichter 20",
+            "MW": false,
+            "EW": false,
+            "price": 1.99
+        },
+        {
+            "ID": 22,
+            "article": "Teelichter 50",
+            "MW": false,
+            "EW": false,
+            "price": 2.99
+        },
+        {
+            "ID": 23,
+            "article": "Emmentaler 200g",
+            "MW": false,
+            "EW": false,
+            "price": 1.99
+        },
+        {
+            "ID": 24,
+            "article": "Schwarzwälder Schinken 200g",
+            "MW": false,
+            "EW": false,
+            "price": 2.69
+        },
+        {
+            "ID": 25,
+            "article": "Block Schokolade 200g",
+            "MW": false,
+            "EW": false,
+            "price": 1.99
+        },
+        {
+            "ID": 26,
+            "article": "Hackfleisch gemischt 500g",
+            "MW": false,
+            "EW": false,
+            "price": 4.99
+        },
+        {
+            "ID": 27,
+            "article": "Hackfleisch Rind 500g",
+            "MW": false,
+            "EW": false,
+            "price": 5.99
+        },
+        {
+            "ID": 28,
+            "article": "Hähnchen Brust 400g",
+            "MW": false,
+            "EW": false,
+            "price": 3.99
+        },
+        {
+            "ID": 29,
+            "article": "Hähnchen Brust 1000g",
+            "MW": false,
+            "EW": false,
+            "price": 7.99
+        },
+        {
+            "ID": 30,
+            "article": "Retro-Shorts",
+            "MW": false,
+            "EW": false,
+            "price": 7.99
+        },
+        {
+            "ID": 31,
+            "article": "Nur-Der Socken",
+            "MW": false,
+            "EW": false,
+            "price": 7.99
+        },
+        {
+            "ID": 32,
+            "article": "Nur-Der Socken",
+            "MW": false,
+            "EW": false,
+            "price": 7.99
+        },
+        {
+            "ID": 33,
+            "article": "Parmiggiano 30m 175g",
+            "MW": false,
+            "EW": false,
+            "price": 5.99
+        },
+        {
+            "ID": 34,
+            "article": "Grana Padano 12m 200g",
+            "MW": false,
+            "EW": false,
+            "price": 4.99
+        },
+        {
+            "ID": 33,
+            "article": "KFZ Ladestation",
+            "MW": false,
+            "EW": false,
+            "price": 5.99
+        },
+        {
+            "ID": 34,
+            "article": "Varta AA 8Stk",
+            "MW": false,
+            "EW": false,
+            "price": 5.99
+        },
+        {
+            "ID": 35,
+            "article": "Energizer AA 8Stk",
+            "MW": false,
+            "EW": false,
+            "price": 4.99
+        },
+        {
+            "ID": 36,
+            "article": "MaxEnergy AA 8Stk",
+            "MW": false,
+            "EW": false,
+            "price": 1.99
+        },
+        {
+            "ID": 37,
+            "article": "Zigaretten 20 Stk",
+            "MW": false,
+            "EW": false,
+            "price": 7.00
+        },
+        {
+            "ID": 38,
+            "article": "Zigaretten 25 Stk",
+            "MW": false,
+            "EW": false,
+            "price": 9.00
+        },
+        {
+            "ID": 39,
+            "article": "Toilette Samtweich",
+            "MW": false,
+            "EW": false,
+            "price": 5.99
+        },
+        {
+            "ID": 40,
+            "article": "Toilette Recycling",
+            "MW": false,
+            "EW": false,
+            "price": 4.99
+        }
+    ],
+    "bucket": [
+        {
+            "ID": 40
+        },
+        {
+            "ID": 4
+        },
+        {
+            "ID": 14
+        },
+        {
+            "ID": 24
+        },
+        {
+            "ID": 7
+        },
+        {
+            "Id": 39
+        },
+        {
+            "ID": 20
+        },
+        {
+            "ID": 11
+        },
+        {
+            "ID": 27
+        },
+        {
+            "ID": 17
+        },
+        {
+            "ID": 7
+        },
+        {
+            "ID": 5
+        },
+        {
+            "ID": 6
+        },
+        {
+            "ID": 12
+        },
+        {
+            "ID": 9
+        },
+        {
+            "ID": 1
+        },
+        {
+            "ID": 1
+        },
+        {
+            "ID": 1
+        }
+    ]
+}

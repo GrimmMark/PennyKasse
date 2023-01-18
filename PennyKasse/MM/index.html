@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shopping Cashier</title>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <script defer src="./script.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <!-- Sum of printed items, updated after each scan -->
+
+      <h3 id="total">Total</h3>
+      <h2 id="change">Change:</h2>
+    </header>
+    <main>
+      <!-- attach here the list item out of database -->
+      <ul id="scanned"></ul>
+    </main>
+    <section>
+      <button id="storno">STORNO</button>
+      <button id="pay_now">PAY</button>
+      <form action="">
+        <input type="text" id="input" placeholder="Enter amount => RECEIVED" />
+        <input type="button" id="received" value="RECEIVED" />
+      </form>
+    </section>
+    <footer>
+      <h2>RECEIPT:</h2>
+      <ul id="receipt"></ul>
+    </footer>
+  </body>
+</html>

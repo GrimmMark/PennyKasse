@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PennyKasse</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+
+  <div class="screen">
+    <div class="headerScreen">
+      <input type="button" class="start" value="Start" />
+      <h1 id="screen-header">Penny</h1>
+      <input type="button" id="peep" class="peep" value="Peep" />
+    </div>
+    <div class="scan">
+      <div class="flexHeaderScan" id="headerScan">
+        <div class="article-header">Artikel</div>
+        <div class="price-header">Preis</div>
+      </div>
+      <div class="scanned">
+        <div class="article" id="scanned" label="Artikel" value="Artikel">
+          <div class="article_li"></div>
+        </div>
+        <div class="price" id="scannedprice" label="Preis">
+          <div class="price_li"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="actions">
+      <div class="first">
+        <input type="button" class="storno" id="storno" value="Storno" />
+      </div>
+      <div class="second">
+        <input type="button" class="pay" id="pay_now" value="Bezahlen" />
+        <button type="submit" class="got" id="received" value="">gegeben</button> 
+        <div type="text" class="return" value="Zurück">zurück:</div>
+      </div>
+      <div class="third">
+        <div class="total1" id="total">total</div>
+        <input class="input" type="number" id="input" value="" placeholder="Betrag" />
+        <div class="output" id="change">change</div>
+      </div>
+    </div>
+  </div>
+  <div class="bill">
+    <div class="headerBill">
+      <h1 id="bill-header">Penny</h1>
+      <hr />
+      <div class="datum">
+        <div class="dateText">Datum</div>
+        <div class="date">TT/mm/jjjj</div>
+      </div>
+      <hr />
+      <hr />
+    </div>
+    <div class="flexHeaderScan" id="headerBill">
+      <div class="article-header">Artikel</div>
+      <div class="price-header">Preis</div>
+    </div>
+    <div class="scanned2">
+      <div class="article" id="scanned2" label="Artikel" value="Artikel">
+        <div class="article_li2"></div>
+      </div>
+      <div class="price" id="scannedprice2" label="Preis">
+        <div class="price_li2"></div>
+      </div>
+    </div>
+    <div>
+      <hr />
+    </div>
+    <div class="Summe2">
+      <div class="total2Text">Summe</div>
+      <div class="total2">sum</div>
+    </div>
+    <br>
+    <div>
+      <hr />
+      <hr />
+    </div>
+    <p>Vielen Dank für Ihren Einkauf!</p>
+    <div>
+      <hr />
+      <hr />
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
